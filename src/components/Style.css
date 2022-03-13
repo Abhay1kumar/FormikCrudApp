@@ -1,0 +1,34 @@
+.mybutton{
+    position:absolute;
+    top:4px;
+    right: 4px;
+}
+
+input[type="text"]{
+  display:block;
+  width:400px;
+  padding:6px 12px;
+  font-size: 14px;
+  line-height:1.42857143;
+  color:#555;
+  background-color: #fff;
+  background-image: none;
+  border:1px solid #ccc;
+  border-radius:4px;
+}
+
+.myForm{
+    margin-bottom: 20px;
+   
+  }
+  
+  .error{
+    color:red;
+  }
+
+  .editUser, .addUser{
+    background-color: skyblue;
+    text-align: center;
+  position: absolute;
+  right: 50%;
+  }
